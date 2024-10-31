@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0655ad9b-29e5-4b50-b92f-3dcee7954ae1" name="Changes" comment="v1.1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosLibros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/principal/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConversorDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/IConvierteDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejemplo_Json.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Datos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosAutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConvierteDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/Libro/LibroApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosLibros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConsumoAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConsumoAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConversorDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/IConvierteDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/IConvierteDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -41,12 +48,15 @@
     &quot;assignee&quot;: &quot;heaa84&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/heaa84/Libro.git",
-    "accountId": "f19ebd4f-1116-496d-972f-79c1073da677"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/heaa84/Libro.git&quot;,
+    &quot;accountId&quot;: &quot;2b098d9d-1f10-4bfb-b8d3-e21f3ca540eb&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -63,22 +73,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LibroApplication.executor": "Debug",
-    "Application.Principal.executor": "Run",
-    "JUnit.LibroApplicationTests.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hugo/Desktop/SPRING/Libros/Libro",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LibroApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LibroApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hugo/Desktop/SPRING/Libros/Libro&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cobacha.libro.model" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.cobacha.libro.Libro" />
     </key>
@@ -132,16 +145,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
