@@ -13,9 +13,9 @@ import java.util.stream.Collectors;
 
 public class Principal {
     private static final String URL_BASE = "https://gutendex.com/books/";
-    private ConsumoAPI consumoAPI=new ConsumoAPI();
-    private ConvierteDatos conversor =new ConvierteDatos();
-    private Scanner teclado=new Scanner(System.in);
+    private final ConsumoAPI consumoAPI=new ConsumoAPI();
+    private final ConvierteDatos conversor =new ConvierteDatos();
+    private final Scanner teclado=new Scanner(System.in);
 
     public void muestraMenu(){
         var json=consumoAPI.obtenerDatos(URL_BASE);

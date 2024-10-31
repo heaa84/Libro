@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0655ad9b-29e5-4b50-b92f-3dcee7954ae1" name="Changes" comment="v1.1">
-      <change afterPath="$PROJECT_DIR$/ejemplo_Json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Datos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosAutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConvierteDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/LibroApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosLibros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/Result.java" beforeDir="false" />
+    <list default="true" id="0655ad9b-29e5-4b50-b92f-3dcee7954ae1" name="Changes" comment="v3.1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosAutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/model/DatosAutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/principal/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConsumoAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConsumoAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/ConversorDatos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/IConvierteDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cobacha/libro/service/IConvierteDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729597830982</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v3.1">
+      <option name="closed" value="true" />
+      <created>1730383095826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730383095826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +128,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -144,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
+    <MESSAGE value="v3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v3.1" />
   </component>
 </project>
